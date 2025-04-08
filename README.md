@@ -6,7 +6,7 @@ A Python-based data analysis project that processes the 2024 Fortune 1000 datase
 
 # Getting Started
 # Prerequisites
-Ensure you have the following installed:
+we have installed the following
 
 Python 3.x
 pandas
